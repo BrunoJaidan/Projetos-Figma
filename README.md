@@ -1,6 +1,6 @@
 # Projetos-Figma-PROA
 # FigmaProjects
-Reposítorio criado para postar meus projetos Figma desenvolvidos no PROA
+Repositório criado para postar meus projetos Figma desenvolvidos no PROA
 <hr>
 
 <h2> <a href="https://www.figma.com/file/91uXdtKDxgKoxnAWOvWJNT/music?type=design&node-id=0%3A1&mode=design&t=bf015kSLBJWsOspH-1">Music - Desktop/Mobile</a></h2>
