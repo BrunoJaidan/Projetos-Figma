@@ -1,5 +1,5 @@
 # Projetos-Figma-PROA
-# FigmaProjects
+# Figma PROA
 Repositório criado para postar meus projetos Figma desenvolvidos no PROA
 <hr>
 
